@@ -29,3 +29,4 @@ public class important {
 
 
 //single value to single notation varna multiple notation
+//to chalo ajj ki conti bhi kardete hain
