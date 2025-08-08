@@ -9,3 +9,6 @@ public class deadlock {
         synchronized Test.obj2;
     }
 }
+
+
+HELOO MAN
